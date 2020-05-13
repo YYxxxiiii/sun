@@ -3,7 +3,7 @@ package java_0420
 import java.util.*;
 
 class MyComp implements Comparator<Integer> {
-    @Override
+    @
     public int compare(Integer o1, Integer o2) {
         // sort 方法默认是按照升序排序. 小的在前, 大的在后.
         // compare 方法相当于是重新定义 什么叫 "小"
