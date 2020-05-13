@@ -2,10 +2,8 @@ package java_0420
 
 import java.util.Arrays;
 
-public class TestEnum {
-    // 需要在代码中表示性别.
-    // 可以约定, 1 表示男性, 2 表示女性, 3 表示其他.
-//    public static final int MALE = 1;
+num {
+    // 需要在代码中表示性别.//    public static final int MALE = 1;
 //    public static final int FEMALE = 2;
 //    public static final int OTHER = 3;
 
